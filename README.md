@@ -8,7 +8,6 @@
 </p>
 <h3 align="center">Want to learn more about:</h3>
 <p align="center">
-  <a href="https://hamzaouajhain.com/">
     <img src="https://skillicons.dev/icons?i=cs,zig,go"/>
   </a>
 </p>
