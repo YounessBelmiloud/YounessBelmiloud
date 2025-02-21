@@ -3,7 +3,6 @@
 <p>&nbsp;</p>
 <h3 align="center">My Expertise:</h3>
 <p align="center">
-  <a href="https://hamzaouajhain.com/">
     <img src="https://skillicons.dev/icons?i=python,java,scala,c,cpp,matlab,mysql,bash,docker,git"/>
   </a>
 </p>
